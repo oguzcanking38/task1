@@ -1,5 +1,5 @@
 Sunucu Ubuntu 22.04 http://toccoapp.cloud:2002/ üzerinden canlı bir şekilde görülebilir (Verdiğiniz görevden anladığım kadarıyla bu şekilde bir yol izledim.)
-1- Altyapı: https://github.com/TareqAlqutami/rtmp-hls-server
+1- Altyapı: https://github.com/ossrs/srs
 2- Litespeed panel üzerindeki docker yardımcısı modülü ile kuruldu.
 3- Kodun sunucuya deploy edilmesi:
 3.1 Virtual enviroment oluştur
