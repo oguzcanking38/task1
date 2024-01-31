@@ -7,7 +7,7 @@ import threading
 app = Flask(__name__)
 
 RTMP_PORT = 2000
-STREAM_KEY = 'test'
+STREAM_KEY = 'livestream'
 VIDEO_SOURCE = 'koala.mp4'  # Video dosyasının adını buraya ekleyin
 
 def get_random_name():
